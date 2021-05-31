@@ -1,7 +1,7 @@
 /*
- Theme Name:   EventBell Child
+ Theme Name:   Misstris
  Theme URI:    http://example.com/twenty-fifteen-child/
- Description:  EventBell Child Theme
+ Description:  Misstris Theme
  Author:       Brian Wardwell
  Author URI:   http://brianwardwell.com
  Template:     eventbell
@@ -11,3 +11,6 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  eventbell
 */
+.site-header{
+    background-color: pink;
+}
